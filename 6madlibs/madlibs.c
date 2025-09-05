@@ -21,7 +21,7 @@ int main ()
 
     printf("he said %s " , adverb);
     printf ("as he jumped into his covertable %s " , noun);
-    printf ("and drove off with his %s wife" , adjective);
+    printf ("and drove off with his %s wife. \n" , adjective);
 
 
     return 0;
